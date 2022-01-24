@@ -1,0 +1,16 @@
+@font-face {
+    font-family: '900';
+    src: url(../fonts/impact.ttf);
+}
+@font-face {
+    font-family: '700';
+    src: url(../fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+    font-family: '600';
+    src: url(../fonts/Montserrat-SemiBold.ttf);
+}
+@font-face {
+    font-family: '500';
+    src: url(../fonts/Montserrat-Medium.ttf);
+}
